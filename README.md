@@ -8,7 +8,7 @@ cd tests
 npm install
 npx playwright install
 
-## Запуск тестов 
+### Запуск тестов 
 
 npx playwright test
 
